@@ -1,2 +1,0 @@
-sample_name,genome,genome_masked,protein_fasta,bam_files,fastq_r1,fastq_r2,sra_ids,varus_genus,varus_species,isoseq_bam,isoseq_fastq,busco_lineage,reference_gtf
-njlan_final,/work1/sponge/lht-njlan-final-annotation-20261007/njlan/00_input/njlan_final.shortids.fasta,/work1/sponge/lht-njlan-final-annotation-20261007/njlan/02_repeatmasker/njlan_final.shortids.fasta.masked,/work1/sponge/genome_annotation/protein_evidence/Porifera_2species.faa,,,,,,,,,metazoa_odb10,
